@@ -1,0 +1,35 @@
+{
+  "name": "@tawez/bem",
+  "version": "0.1.0",
+  "description": "Library supporting BEM methodology",
+  "author": "Maciej Stankiewicz",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "files": [
+    "lib/**/*",
+    "README.md"
+  ],
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawez/bem.git"
+  },
+  "keywords": [
+    "bem",
+    "css"
+  ],
+  "bugs": {
+    "url": "https://github.com/tawez/bem/issues"
+  },
+  "homepage": "https://github.com/tawez/bem#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.4",
+    "typescript": "^4.2.3"
+  }
+}

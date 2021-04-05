@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules
+
+# Coverage folder used by jest
+coverage
+
+# Build folder
+lib
+
+# MacOS folders attributes that may appear after opening folder in Finder
+.DS_Store
+.DS_Store?

@@ -1,5 +1,4 @@
 module.exports = {
-  collectCoverage: true,
   coverageDirectory: 'coverage',
   moduleFileExtensions: [
     'ts', 'tsx', 'js', 'jsx', 'json', 'node'
